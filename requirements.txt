@@ -1,0 +1,11 @@
+aiogram>=3.13
+groq>=0.30
+sentence-transformers>=3.0
+numpy
+requests
+pypdf
+python-docx
+python-dotenv
+pymupdf>=1.24.3
+pytesseract
+pillow
